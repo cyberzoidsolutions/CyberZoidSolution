@@ -1,2 +1,1 @@
-# CyberZoidSolution
-Web page
+This project is in development
